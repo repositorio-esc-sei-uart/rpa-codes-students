@@ -1,0 +1,25 @@
+Algoritmo area_de_circulo
+	
+Definir area, radio Como Real;
+Escribir "Escribir el valor del radio del circulo"
+Leer radio;
+area = PI * (radio * radio) 
+Escribir "El area del circulo es: ", area; 
+	
+FinAlgoritmo
+--------------------------------------------------
+Algoritmo edad_promedio
+	Definir total, edad, suma, x Como Entero
+	Definir promedio Como Real
+	Escribir "ingresar el numero de personas"
+	Leer total
+	x = 1
+	suma = 0
+	Mientras x <= total Hacer
+		Escribir "Ingresar la edad de la persona ",x
+		Leer edad
+		suma = suma + edad 
+		x = x + 1
+	Fin Mientras
+	Escribir "La edad promedio de las personas es: ",suma / total
+FinAlgoritmo

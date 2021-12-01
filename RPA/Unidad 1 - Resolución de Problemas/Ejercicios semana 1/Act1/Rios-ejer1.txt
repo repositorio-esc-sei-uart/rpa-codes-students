@@ -1,0 +1,18 @@
+A: ¿Que entrada de datos requiere?
+   se requiere conocer el diametro del circulo.
+   ¿Cual es la salida deseada?
+   saber cual es el area del circulo.
+   ¿Cual es la restrinccion?
+   la restrinccion esta determinada por la falta de informacion sobre el diametro del circulo.
+B: ¿Que entrada de datos requiere?
+   la dedad de los individuos.
+   ¿Cual es la salida deseada?
+   Determinar el promedio de edad de los idividuos
+   ¿Cual es la restrinccion?
+   la cantidad de individuos, y la falta de informacion sobre las edades.
+C: ¿Que entrada de datos requiere?
+   se requieren las coordenadas de una ubicacion geografica.
+   ¿Cual es la salida deseada?
+   poder identificar a que emisferio pertencen las coordenadas solicitadas.
+   ¿Cual es la resntriccion?
+   la falta de las coordenadas, y la delimitaicon a una zona especifica del mapa.

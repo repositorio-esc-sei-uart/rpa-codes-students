@@ -1,0 +1,11 @@
+A_área de un círculo
+Entrada:El radio del circulo(Numero Real) y el numero Pi (Radio * Pi ^ 2 = Area)
+Salida:El area del circulo(Numero Real)
+
+B_promedio de edades de tres personas.
+Entrada:Edad de la persona 1, Edad de la persona 2, Edad de la persona 3 (Ed1 + Ed2 + Ed3 = Ed123) (Ed123 / 3 = Promedio)
+Salida:Promedio de las tres edades
+
+C_coordenada de una ubicación geográca en un mapa.
+Entrada:Latitud y Longitud (ej:-54,33)
+Salida:Ubicacion y hemisferio sur o norte (ej: -54 = Hemisferio sur) (28 = Hemisferio norte)

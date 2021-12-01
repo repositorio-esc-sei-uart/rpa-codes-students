@@ -1,0 +1,11 @@
+Algoritmo EL_MAYOR_DE_DOS_NUMEROS
+	Escribir "CAPTURE PRIMER NUMERO"
+	Leer NRO1
+	Escribir "CAPTURE SEGUNDO NUMERO"
+	Leer NRO2
+	Si (NRO1>NRO2) Entonces
+		Escribir "EL NUMERO ",NRO1, "ES MAYOR QUE ", NRO2
+	SiNo
+		Escribir "EL NUMERO ",NRO2, "ES MAYOR QUE ", NRO1
+	Fin Si
+FinAlgoritmo

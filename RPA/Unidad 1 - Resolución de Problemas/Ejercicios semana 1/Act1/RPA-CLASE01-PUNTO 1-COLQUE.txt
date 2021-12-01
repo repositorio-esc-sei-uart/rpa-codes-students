@@ -1,0 +1,52 @@
+1.
+  a. Determinar el area de un circulo:
+
+     Hola, para determinar el área del círculo, ingrese el radio del mismo.
+
+	Entradas: 
+		  Radio: (Numero Entero "r")
+
+	Salidas:
+		  Área: (3,1416*r^2)
+     
+                  El Área del circulo es: .... cm^2
+
+     Las restricciones serian:
+				El RADIO ingresado sea un número entero positivo.
+				Expresado en cm.
+
+
+ b. Determinar el promedio de edades de tres personas.
+
+    Hola, ingrese las edades de las personas para poder calcular su promedio.
+
+	Entradas:
+		 Persona 1:(Número Natural)
+		 Persona 2:(Número Natural)
+		 Persona 3:(Número Natural)
+	
+	Salidas:
+		 (Persona 1 + Persona 2 + Persona 3)/3
+
+                 El Promedio de edades es: .....años
+
+     Las restricciones serian:
+				El usuario deberá ingresar Números Naturales.
+				
+ c. Dada una coordenada de ubicación geográfica en un mapa, decir si pertenece al hemisferio sur o norte.
+
+    Hola, para poder determinar en que hemisferio se encuentra la ubicación, ingrese sus coordenadas geográficas.
+
+	Entradas:
+		 Latitud: ....°....´...." N _ S
+		Longitud: ....°....´...." E _ O
+
+	Salida:
+		 Latitud: =N (emisferio "Norte")
+		 Latitud: =S (emisferio "Sur")
+    		 La ubicación ingresada se encuentra en el hemisferio:....		 
+
+     Las restricciones serian:
+				El usuario deberá ingresar Números Naturales, en el orden de Grados, Minutos y Segundos.
+				Ingresar N o S para determinar el Hemisferio.
+				    

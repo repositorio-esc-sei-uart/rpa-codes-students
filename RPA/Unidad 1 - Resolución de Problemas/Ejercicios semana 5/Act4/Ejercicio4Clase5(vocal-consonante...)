@@ -1,0 +1,24 @@
+Algoritmo Programaquedetermiasisonvocalessonsonantes
+	Definir l Como Caracter
+	Escribir 'Ingrese un Caracter para saber si es una vocal, '
+	Escribir 'consonante, digito u operador matemático.'
+	Leer l
+	Si l=='a' O l=='e' O l=='i' O l=='o' O l=='u' O l=='A' O l=='E' O l=='I' O l=='O' O l=='U' Entonces
+		Escribir 'El caracter es una vocal'
+	SiNo
+		Si l=='b' O l=='c' O l=='d' O l=='f' O l=='g' O l=='h' O l=='j' O l=='k' O l=='l' O l=='m' O l=='n' O l=='ñ' O l=='p' O l=='q' O l=='r' O l=='s' O l=='t' O l=='v' O l=='w' O l=='x' O l=='y' O l=='z' O l=='B' O l=='C' O l=='D' O l=='F' O l=='G' O l=='H' O l=='J' O l=='K' O l=='L' O l=='M' O l=='N' O l=='Ñ' O l=='P' O l=='Q' O l=='R' O l=='S' O l=='T' O l=='V' O l=='W' O l=='X' O l=='Y' O l=='Z' Entonces
+			Escribir 'El caracter es una Consonante'
+		SiNo
+			Si (l=='1') O (l=='2') O (l=='3') O (l=='4') O (l=='5') O (l=='6') O (l=='7') O (l=='8') O (l=='9') O (l=='0') Entonces
+				Escribir 'El caracter ingresado es un Número'
+			SiNo
+				Escribir 'ingrese una unidad válida'
+				Si l=='+' O l=='-' O l=='*' O l=='/' O l=='%' O l=='^' Entonces
+					Escribir 'El caracter ingresado es un operador matemático'
+				SiNo
+					Escribir 'Caracter no definido'
+				FinSi
+			FinSi
+		FinSi
+	FinSi
+FinAlgoritmo

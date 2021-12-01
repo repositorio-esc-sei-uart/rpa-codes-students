@@ -1,0 +1,19 @@
+Algoritmo zuma
+	definir i,n,num, suma, cont como entero
+	n<-1
+	i<-1
+	Escribir 'Ingresa números de UNA Unidad' 
+	Escribir ''
+	Escribir 'Cuántos números enteros desea ingresar?'
+	leer n
+	para i<-1 hasta n Hacer
+		Escribir 'Ingresa el ',i,'° número'
+		leer num
+		si (num MOD 2)==0 Entonces
+			cont<-cont+1
+			suma<-suma+num
+		FinSi
+		
+	FinPara
+	Escribir 'La suma de los pares es: ',suma
+FinAlgoritmo

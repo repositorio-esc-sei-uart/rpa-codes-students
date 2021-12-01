@@ -1,0 +1,34 @@
+1.
+  determinar el area de un circulo:
+
+     - se ingresa el radio del mismo.
+     - entradas: 
+       *radio: (Numero Entero "r")
+       *Salidas: 
+       *Área: (3,14162)
+       *El Área del circulo es: .... cm2
+     - restriccion: el radio ingresado expresado en cm.
+
+
+ b. Determinar el promedio de edades de tres personas.
+
+      - edades de las personas para poder calcular su promedio.
+      - entradas: persona 1:(Número Natural)
+	        persona 2:(Número Natural)
+	        persona 3:(Número Natural)
+      -  salidas: (persona 1 + persona 2 + persona 3 )/3
+      -  promedio de edad: .....años
+      -  restriccion: ingresar números naturales.
+				
+ c. dada una coordenada de una ubicación geográfica, decir si pertenece al hemisferio sur o norte.
+     ingrese sus coordenadas geográficas.
+     -Entradas:
+      *Latitud: ....°....´...." Norte _ Sur
+      *Longitud: ....°....´...." Este _ Oeste
+     -Salida:	 Latitud: =N (hemisferio "Norte")
+	 Latitud: =S (hemisferio "Sur")
+    	 ubicación en el hemisferio:....		 
+
+     restricciones: ingreso con números naturales, grados, minutos y segundos.
+	               ingreso Norte o Sur 
+				    

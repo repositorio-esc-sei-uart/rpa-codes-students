@@ -1,0 +1,21 @@
+Algoritmo GanarPromedio
+	definir parc1 Como Real
+	definir parc2 como real
+	definir prom como real
+	Escribir"Usted Puede aprobar cada parcial con un 4 de 10."
+	Escribir"Ingrese la primera nota del Parcial."
+	leer parc1
+	si parc1>=4 entonces escribir"Usted ha aprobado este parcial."
+		sino escribir"Usted ha desaprobado este parcial."
+	FinSi
+	escribir"Ingrese la segunda nota del parcial."
+	leer parc2
+	si parc2>=4 entonces escribir"Usted ha aprobado este parcial."
+		sino escribir"Usted ha desaprobado este parcial."
+	FinSi
+	prom<-(parc1+parc2)/2
+	si prom>=4 Entonces
+		escribir"El alumno aprobó con un promedio Final de " , prom "."
+	sino escribir"El alumno desaprobó con un promedio Final de ", prom "."
+	FinSi
+FinAlgoritmo

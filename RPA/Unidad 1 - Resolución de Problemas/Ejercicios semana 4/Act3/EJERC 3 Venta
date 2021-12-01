@@ -1,0 +1,34 @@
+Algoritmo  opciones
+	Definir monto, recargo,pago , resultado como Entero
+	
+	Escribir " Ingrese el monto a pagar"
+	Leer monto 
+	
+	Escribir " Ingrese el modo de pago "
+	EScribir " 1. efectivo"
+	Escribir " 2. debito"
+	Escribir " 3. transferencia"
+	Escribir " 4. Mercado pago"
+	Escribir " 5. Tarjeta de Credito"
+	Leer pago 
+	
+	Segun pago Hacer
+		1:
+			resultado= monto;
+			Escribir " El valor total es ",resultado
+		2:
+			resultado = (3* monto /100) + monto
+			Escribir " El valor total mas recargo del 3 % es ",resultado 
+		3: 
+			resultado =(5* monto /100) + monto
+			Escribir " El valor total  mas recargo del 5 % es ",resultado 
+		4: 
+			resultado =(5* monto /100) + monto
+			Escribir " El valor total  mas recargo del 5 % es ",resultado 
+	
+		5:
+			resultado =(7* monto /100) + monto
+			Escribir " El valor total mas recargo del 7 % es ",resultado 
+	Fin Segun
+	
+FinAlgoritmo

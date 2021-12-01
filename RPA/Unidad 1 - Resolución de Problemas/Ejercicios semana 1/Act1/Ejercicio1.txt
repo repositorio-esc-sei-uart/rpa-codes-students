@@ -1,0 +1,33 @@
+1)
+A)
+
+Área de un Circulo
+
+Entradas	        Salidas
+R= Numero flotante	A = Numero Flotante
+PI = Numero flotante	
+
+Restricciones
+•El valor de R no puede ser negativo
+•El valor de PI no puede cambiar
+
+B) 
+
+Promedio de tres edades
+
+Entradas	        Salidas
+Edad1= Numero Entero	Promedio= Numero Flotante
+Edad2= Numero Entero	
+Edad3= Numero Entero	
+
+Restricciones:
+•Los valores en la entrada no pueden ser negativos
+•Los valores de la entada tampoco pueden ser flotantes
+
+C)
+Ubicación Geográfica
+
+Entrada                 	Salida
+Coordenada= Numero Flotante	Hemisferio Norte= Carácter
+	                        Hemisferio Sur= Carácter
+
