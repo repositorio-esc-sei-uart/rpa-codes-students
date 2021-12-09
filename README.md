@@ -16,7 +16,7 @@ ___
 ### De los Participantes
 > #### ALUMNO BECARIO RESPONSABLE: 
 >* GONZALEZ ESPADA, José Ismael
-> #### PROFESORA BECARIA RESPONSABLE:
+> #### PROFESORA RESPONSABLE:
 > * CRUZ, Diana
 ___
 ### De los temas abordados
